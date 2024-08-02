@@ -1,6 +1,6 @@
 # Dofus-Forgemagie
 
-Dofus-Forgemagie est une application web qui simule le processus de forge et d'amélioration d'objets à l'aide de runes. Ce projet est conçu pour fournir une interface interactive et visuellement attrayante permettant aux utilisateurs d'expérimenter différentes combinaisons de forge.
+Dofus-Forgemagie est une application web qui reproduit l'interface de forgemagie de Dofus et aussi de rajouter des améliorations.
 
 ## Fonctionnalités
 
@@ -36,15 +36,4 @@ Pour modifier ou étendre ce projet :
 
 ## Contribuer
 
-Les contributions à Dofus-Forgemagie sont les bienvenues ! N'hésitez pas à soumettre une Pull Request.
-
-## Licence
-
-[Spécifiez votre licence ici, par exemple, Licence MIT]
-
-## Contact
-
-[Votre nom ou nom d'utilisateur]  
-[Votre email ou profil GitHub]
-
-N'hésitez pas à personnaliser ce README pour mieux correspondre aux détails et exigences spécifiques de votre projet !
+Les contributions à Dofus-Forgemagie sont les bienvenues !
