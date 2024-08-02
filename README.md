@@ -24,7 +24,7 @@ Le projet se compose de trois fichiers principaux :
 2. Faites glisser un objet de l'inventaire vers l'emplacement "Déposer un item".
 3. Sélectionnez une rune dans la liste des runes.
 4. Cliquez sur "Fusionner" pour appliquer la rune à l'objet.
-5. Surveillez les changements dans les statistiques de l'objet, les valeurs de puits et de dépassement.
+5. Surveillez les changements dans les statistiques de l'objet, les valeurs de puits et d'over.
 
 ## Développement
 
