@@ -1,6 +1,6 @@
 # Dofus-Forgemagie
 
-Dofus-Forgemagie est une application web qui reproduit l'interface de forgemagie de Dofus et aussi de rajouter des améliorations.
+Dofus-Forgemagie est une simple application web qui reproduit l'interface de forgemagie de Dofus, le but est aussi de rajouter des améliorations à l'interface de jeu.
 
 ## Fonctionnalités
 
