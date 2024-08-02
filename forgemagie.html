@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forgemagie</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="top-header">
+            <h1>Forgemager</h1>
+        </div>
+        <div class="content-wrapper">
+            <div class="left-panel">
+                <div class="section">
+                    <h3>Rune History</h3>
+                    <div id="runeHistoryWrapper">
+                        <div id="runeHistory"></div>
+                    </div>
+                </div>
+                <div class="section">
+                    <h3>Sac d'items</h3>
+                    <div id="items" class="items"></div>
+                </div>
+                <div class="section puits">
+                    <h3>Puits</h3>
+                    <div id="puitsValue" class="puits-number">0</div>
+                </div>
+                <div class="section over">
+                    <h3>Over</h3>
+                    <div id="overValue" class="over-number">0</div>
+                </div>
+            </div>
+            <div class="main-content">
+                <div class="header">
+                    <div class="image-placeholders">
+                        <div id="itemPlaceholder" class="image-placeholder">Déposer un item</div>
+                        <div class="image-placeholder">
+                            <div id="runeListToggle">
+                                <span id="selectedRuneText">Image de la rune</span>
+                                <div id="selectedRune" class="hidden">
+                                    <img id="selectedRuneImage" alt="Selected Rune" src="" class="hidden">
+                                    <span id="selectedRuneName"></span>
+                                </div>
+                            </div>
+                            <div id="runeList" class="rune-list hidden"></div>
+                        </div>
+                        <div class="image-placeholder">Image de rune de signement</div>
+                    </div>
+                    <div class="buttons">
+                        <button id="fusionnerTout" class="button">Fusionner tout</button>
+                        <button id="fusionner" class="button">Fusionner</button>
+                    </div>
+                </div>
+                <div id="statGrid" class="stat-grid"></div>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
