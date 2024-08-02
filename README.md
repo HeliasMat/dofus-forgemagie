@@ -6,7 +6,7 @@ Dofus-Forgemagie est une application web qui reproduit l'interface de forgemagie
 
 - **Gestion des objets** : Glissez et déposez des objets de votre inventaire vers la zone de forge.
 - **Sélection de runes** : Choisissez parmi une variété de runes à appliquer à vos objets.
-- **Processus de forge** : Appliquez des runes aux objets et voyez les résultats en temps réel.
+- **Application des runes** : Appliquez des runes aux objets et voyez les résultats en temps réel.
 - **Suivi des statistiques** : Surveillez les statistiques des objets, les valeurs de puits et de dépassement.
 - **Historique des runes** : Gardez une trace de toutes les applications de runes et de leurs résultats.
 
